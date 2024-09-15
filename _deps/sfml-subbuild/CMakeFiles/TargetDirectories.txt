@@ -1,0 +1,3 @@
+/home/yy/repos/projects/simulator/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/home/yy/repos/projects/simulator/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/home/yy/repos/projects/simulator/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
